@@ -1,0 +1,8 @@
+C:\Users\joser\OneDrive\Escritorio\CRUD-ALUMNOS\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\joser\OneDrive\Escritorio\CRUD-ALUMNOS\obj\Debug\net10.0\CRUD-ALUMNOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joser\OneDrive\Escritorio\CRUD-ALUMNOS\obj\Debug\net10.0\CRUD-ALUMNOS.AssemblyInfoInputs.cache
+C:\Users\joser\OneDrive\Escritorio\CRUD-ALUMNOS\obj\Debug\net10.0\CRUD-ALUMNOS.AssemblyInfo.cs
+C:\Users\joser\OneDrive\Escritorio\CRUD-ALUMNOS\obj\Debug\net10.0\CRUD-ALUMNOS.csproj.CoreCompileInputs.cache
+C:\Users\joser\OneDrive\Escritorio\CRUD-ALUMNOS\obj\Debug\net10.0\CRUD-ALUMNOS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joser\OneDrive\Escritorio\CRUD-ALUMNOS\obj\Debug\net10.0\CRUD-ALUMNOS.RazorAssemblyInfo.cache
+C:\Users\joser\OneDrive\Escritorio\CRUD-ALUMNOS\obj\Debug\net10.0\CRUD-ALUMNOS.RazorAssemblyInfo.cs

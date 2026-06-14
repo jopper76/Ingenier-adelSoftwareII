@@ -1,0 +1,115 @@
+﻿@model IEnumerable<CRUD_ALUMNOS.Models.Alumno>
+
+@{
+
+    ViewwBag.Title = "Lista de Alumnos";
+    Layout = "/Views/Shared/_Layout.cshtml";
+
+}
+
+<h2>Index</h2>
+
+<p>
+
+    @Html.ActionLink("Create New","Create")
+
+</p>
+
+<table>
+
+    <tr>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Nombres)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Apellido)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Edad)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Sexo)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.FechaRegistro)
+        </th>
+        <th></th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        
+        <tr>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombres)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Apellidos)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Edad)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Sexo)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaRegistro)
+            </td>
+            <td>
+
+                if (item.Sexo == "M"){
+
+                    <span>Masculino</span>
+
+                }
+                else
+                {
+                    
+                    <span>Femenino</span>
+                
+                }
+
+            </td>
+                @item.FechaRegistro.ToShortDateString();
+            <td>
+                
+                @Html.ActionLink("Editar","Editar",new(id=item.Id)) |
+                @Html.ActionLink("Detalles", "Detallesalumno", new(id = item.Id)) |
+                @Html.ActionLink("Eliminar", "EliminarAlumno", new(id = item.Id), new (@class = "aElimina"))
+
+            </td>
+
+        </tr>
+
+    }
+
+</table>
+
+@section scripts{
+
+
+    <script>
+
+        $(".aElimina").click(function (event)){
+
+            if (!confirm ("Estas seguro de eliminar ?"))
+                    event.preventDefault();
+
+        }
+
+
+
+    </script>
+
+}
