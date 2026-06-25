@@ -1,0 +1,11 @@
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Persistence\bin\Debug\net10.0\Starbucks.Persistence.deps.json
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Persistence\bin\Debug\net10.0\Starbucks.Persistence.dll
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Persistence\bin\Debug\net10.0\Starbucks.Persistence.pdb
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Persistence\obj\Debug\net10.0\Starbucks.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Persistence\obj\Debug\net10.0\Starbucks.Persistence.AssemblyInfoInputs.cache
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Persistence\obj\Debug\net10.0\Starbucks.Persistence.AssemblyInfo.cs
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Persistence\obj\Debug\net10.0\Starbucks.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Persistence\obj\Debug\net10.0\Starbucks.Persistence.dll
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Persistence\obj\Debug\net10.0\refint\Starbucks.Persistence.dll
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Persistence\obj\Debug\net10.0\Starbucks.Persistence.pdb
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Persistence\obj\Debug\net10.0\ref\Starbucks.Persistence.dll
