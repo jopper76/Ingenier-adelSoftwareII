@@ -1,0 +1,11 @@
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Application\bin\Debug\net10.0\Starbucks.Application.deps.json
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Application\bin\Debug\net10.0\Starbucks.Application.dll
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Application\bin\Debug\net10.0\Starbucks.Application.pdb
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Application\obj\Debug\net10.0\Starbucks.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Application\obj\Debug\net10.0\Starbucks.Application.AssemblyInfoInputs.cache
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Application\obj\Debug\net10.0\Starbucks.Application.AssemblyInfo.cs
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Application\obj\Debug\net10.0\Starbucks.Application.csproj.CoreCompileInputs.cache
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Application\obj\Debug\net10.0\Starbucks.Application.dll
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Application\obj\Debug\net10.0\refint\Starbucks.Application.dll
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Application\obj\Debug\net10.0\Starbucks.Application.pdb
+C:\Users\joser\OneDrive\Escritorio\Starbucks\src\Starbucks.Application\obj\Debug\net10.0\ref\Starbucks.Application.dll
